@@ -33,7 +33,7 @@ The U-Net model consists of a contracting path (downsampling) and an expansive p
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repository/unet-cell-segmentation.git
+    git clone https://github.com/vindhyaregonda/Cell_nuclei_segmentation-U-Net.git
     ```
 2. Install the required dependencies:
     ```bash
